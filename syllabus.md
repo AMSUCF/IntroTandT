@@ -3,8 +3,12 @@
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
 - **Office:** Via Zoom or TCH 236B; Monday 2:00 - 5:00 PM
-- **Course Meeting:** Monday 6:00 - 7:50 PM
+- **Course Meeting:** Monday 6:00 - 7:50 PM, TCH 351
   
+---
+
+![Texts & Technology](textsandtech.png)
+
 ---
 
 ## Contents
