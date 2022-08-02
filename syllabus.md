@@ -7,7 +7,7 @@
   
 ---
 
-![Texts & Technology](textsandtech.png)
+<img align="center" src="textsandtech.png"></img>
 
 ---
 
