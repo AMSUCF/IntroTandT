@@ -103,7 +103,7 @@ Students can access their grades and feedback at any time using the Grade Book f
 
 Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence.
 
-There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
+There is no extra credit work available in this class, sorry. Grades will be available through Webcourses and updated weekly.
 
 ---
 
