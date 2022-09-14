@@ -103,7 +103,7 @@ Students can access their grades and feedback at any time using the Grade Book f
 
 Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence.
 
-There is no extra credit work available in this class, sorry. Grades will be available through Webcourses and updated weekly.
+There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
 
 ---
 
@@ -155,14 +155,14 @@ Remember to complete the listed readings for each week prior to class, and be pr
 - Bogost: Finish book
 - Debates in DH: Part II
 - "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://chroniclevitae.com/news/2086-lessons-on-the-craft-of-scholarlyreading)
-- **Demo: Hugo**
+- **Demo: Jekyll**
 - **Due: Abstract**
   
 ### Week Seven: Arguments (Monday, October 3)
 
 - Nakamura: Introduction, Chapter 1-3
 - Debates in DH: Part III
-- **Demo: Hugo Academic**
+- **Demo: Academic Content**
 
 ### Week Eight: Visual Culture (Monday, October 10)
 
