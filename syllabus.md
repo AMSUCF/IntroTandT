@@ -2,8 +2,8 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
-- **Office:** Via Zoom or TCH 236B; Monday 2:00 - 5:00 PM
-- **Course Meeting:** Monday 6:00 - 7:50 PM, TCH 351
+- **Office:** Via Zoom or TCH 236B; Tuesday 2:00 - 5:00 PM
+- **Course Meeting:** Tuesday 6:00 - 7:50 PM, TCH 351
   
 ---
 
@@ -13,7 +13,7 @@
 
 ## Contents
 
-- [ENG 6800: Intro to Texts & Technology](#eng-6800-intro-to-texts--technology)
+- [ENG 6800: Intro to Texts \& Technology](#eng-6800-intro-to-texts--technology)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
@@ -21,21 +21,21 @@
   - [Evaluation and Grading](#evaluation-and-grading)
   - [Mixed Mode Course Structure](#mixed-mode-course-structure)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Syllabus and Getting Started (Monday, August 22)](#week-one-syllabus-and-getting-started-monday-august-22)
-    - [Week Two: Intro to DH (Monday, August 29)](#week-two-intro-to-dh-monday-august-29)
-    - [Week Three: No Class - Labor Day (Monday, September 5)](#week-three-no-class---labor-day-monday-september-5)
-    - [Week Four: Hypertext (Monday, September 12)](#week-four-hypertext-monday-september-12)
-    - [Week Five: Literature Reviews (Monday, September 19)](#week-five-literature-reviews-monday-september-19)
-    - [Week Six: Methods and Making (Monday, September 26)](#week-six-methods-and-making-monday-september-26)
-    - [Week Seven: Arguments (Monday, October 3)](#week-seven-arguments-monday-october-3)
-    - [Week Eight: Visual Culture (Monday, October 10)](#week-eight-visual-culture-monday-october-10)
-    - [Week Nine: Software (Monday, October 17)](#week-nine-software-monday-october-17)
-    - [Week Ten: Cultural Software (Monday, October 24)](#week-ten-cultural-software-monday-october-24)
-    - [Week Eleven: Digital Humanities, Revisited (Monday, October 31)](#week-eleven-digital-humanities-revisited-monday-october-31)
-    - [Week Twelve: Publishing Processes (Monday, November 7)](#week-twelve-publishing-processes-monday-november-7)
-    - [Week Thirteen: On Higher Ed (Monday, November 14)](#week-thirteen-on-higher-ed-monday-november-14)
-    - [Week Fourteen: Critiques (Monday, November 21)](#week-fourteen-critiques-monday-november-21)
-    - [Week Fifteen: Design Futures (Monday, November 28)](#week-fifteen-design-futures-monday-november-28)
+    - [Week One: Syllabus and Getting Started (Tuesday, August 22)](#week-one-syllabus-and-getting-started-tuesday-august-22)
+    - [Week Two: Intro to DH (Tuesday, August 29)](#week-two-intro-to-dh-tuesday-august-29)
+    - [Week Three: Sites (Tuesday, September 5)](#week-three-sites-tuesday-september-5)
+    - [Week Four: Hypertext (Tuesday, September 12)](#week-four-hypertext-tuesday-september-12)
+    - [Week Five: Literature Reviews (Tuesday, September 19)](#week-five-literature-reviews-tuesday-september-19)
+    - [Week Six: Methods and Making (Tuesday, September 26)](#week-six-methods-and-making-tuesday-september-26)
+    - [Week Seven: Arguments (Tuesday, October 3)](#week-seven-arguments-tuesday-october-3)
+    - [Week Eight: Visual Culture (Tuesday, October 10)](#week-eight-visual-culture-tuesday-october-10)
+    - [Week Nine: Software (Tuesday, October 17)](#week-nine-software-tuesday-october-17)
+    - [Week Ten: Cultural Software (Tuesday, October 24)](#week-ten-cultural-software-tuesday-october-24)
+    - [Week Eleven: Digital Humanities, Revisited (Tuesday, October 31)](#week-eleven-digital-humanities-revisited-tuesday-october-31)
+    - [Week Twelve: Publishing Processes (Tuesday, November 7)](#week-twelve-publishing-processes-tuesday-november-7)
+    - [Week Thirteen: On Higher Ed (Tuesday, November 14)](#week-thirteen-on-higher-ed-tuesday-november-14)
+    - [Week Fourteen: Critiques (Tuesday, November 21)](#week-fourteen-critiques-tuesday-november-21)
+    - [Week Fifteen: Design Futures (Tuesday, November 28)](#week-fifteen-design-futures-tuesday-november-28)
     - [Final Paper Due (Friday, December 9)](#final-paper-due-friday-december-9)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
@@ -44,6 +44,7 @@
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+    - [Title IX Policy](#title-ix-policy)
 
 ---
 
@@ -51,7 +52,7 @@
 
 This course provides an introduction to the PhD in Texts and Technology. Throughout this course, we will explore Texts & Technology through theory and practice, with an emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. Each week will include a combination of readings, exercises, discussions, and progress towards a draft journal article and professional academic web presence. PR: Graduate standing or C.I.
 
-- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures and discussion will take place in the classroom: however, Zoom attendance is available for those who need it.
+- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures and discussion will take place in the classroom: however, Zoom attendance is available for those who need it upon request.
 
 - **Online Activities.** This course requires substantial independent work: as part of the mixed-mode structure, additional lectures and tutorials will be available through Webcourses, with an emphasis on the iterative development of the semester projects.
 
@@ -66,7 +67,7 @@ This course provides an introduction to the PhD in Texts and Technology. Through
 - Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
 - Understand program policies and expectations as well as professional presentation and publication strategies.
 - Understand the fundamentals of web platforms.
-- Apply basic syntax and markup language to build structured web documents (e.g., HTML).
+- Apply basic syntax and markup language to build structured web documents (e.g., HTML and Markdown).
 
 ---
 
@@ -77,7 +78,7 @@ This course requires texts drawn from the T&T core list. All books are available
 - Ahmed, Sara. *On Being Included: Racism and Diversity in Institutional Life.* Duke University Press, 2012. [Access for free through UCF Library](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2Fj.ctv1131d2g)
 - Bogost, Ian. *Persuasive Games: The Expressive Power of Video Games.* MIT Press, 2007. [Access for free through UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3338706)
 - Bolter, Jay David. *Writing Space: Computers, Hypertext, and the Remediation of Print.* Routledge, 2001. [Access for free through UCF Library](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fdoi.org%2F104324%2F9781410600110)
-- Gold, Matthew K., and Lauren Klein (eds.) *Debates in the Digital Humanities.* University of Minnesota Press, 2016. [Open Access](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016)
+- Gold, Matthew K., and Lauren Klein (eds.) *Debates in the Digital Humanities 2023.* University of Minnesota Press, 2023. [Open Access](https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2023)
 - Klein, Julie Thompson. *Interdisciplining Digital Humanities: Boundary Work in an Emerging Field.* University of Michigan Press, 2015. [Open Access](https://muse.jhu.edu/book/52267)
 - Manovich, Lev. *Software Takes Command.* Bloomsbury, 2013. [Open Access](https://issuu.com/bloomsburypublishing/docs/9781623566722_web)
 - Nakamura, Lisa. *Digitizing Race: Visual Cultures of the Internet.* University of Minnesota Press, 2007. [Access for free through UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=334221)
@@ -91,13 +92,13 @@ Supplementary suggested readings are included in each module to guide additional
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 26  |
-| 10  | **Zotero Reading List** - Set up Zotero and create a collection for your core T&T list. Add all the books we’re reading this semester that are on the list as well as any others you have read or are particularly interested in. Submit a screenshot of the collection. | Monday, September 12 |
-| 10 | **Abstract** - Choose a special issue, conference, or a target journal from the provided list. Draft an abstract of the appropriate length and style (following journal guidelines). This abstract will form the starting point for your semester-long research project. | Monday, September 26  |
-| 15  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Monday, October 10 |
-| 20  | **Web Presence** - Using the provided templates, build a foundational professional website with an emphasis on your research and trajectory. The website should include relevant information from your CV and any digital projects ready for showcasing.  | Monday, October 31 |
-| 20 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article. This draft is graded on completion only, but will be the foundation of feedback for your final revisions.  | Monday, November 21  |
-| 20 | **Revised Article** - Complete a thorough revision of your article, responsive to the instructor feedback, and formatted for submission with a works cited prepared in Zotero. | Friday, December 9  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25  |
+| 10  | **Zotero Reading List** - Set up Zotero and create a collection for your core T&T list. Add all the books we’re reading this semester that are on the list as well as any others you have read or are particularly interested in. Submit a screenshot of the collection. | Tuesday, September 12 |
+| 10 | **Abstract** - Choose a special issue, conference, or a target journal from the provided list. Draft an abstract of the appropriate length and style (following journal guidelines). This abstract will form the starting point for your semester-long research project. | Tuesday, September 26  |
+| 15  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Tuesday, October 10 |
+| 20  | **Web Presence** - Using the provided templates, build a foundational professional website with an emphasis on your research and trajectory. The website should include relevant information from your CV and any digital projects ready for showcasing.  | Tuesday, October 31 |
+| 20 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article. This draft is graded on completion only, but will be the foundation of feedback for your final revisions.  | Tuesday, November 21  |
+| 20 | **Revised Article** - Complete a thorough revision of your article, responsive to the instructor feedback, and formatted for submission with a works cited prepared in Zotero. | Friday, December 8  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -111,106 +112,107 @@ There is no extra credit work available in this class. Grades will be available 
 
 This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and complete tutorials as assigned. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
-- The course will meet at the scheduled time on campus unless otherwise noted in the weekly module. Every week, the class will be broadcast on Zoom: recordings will be made available as soon as possible following the session, but students are encouraged to attend in-person and live as their circumstances permit.
-- Office hour assistance is additionally available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
-- In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed.
+- The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
+- In-person class sessions will not be recorded, but Zoom calls are possible when necessary.
+- Office hour assistance is additionally available both through text on Webcourses messages and via Zoom.
 
-Remember to complete the listed readings for each week prior to class, and be prepared for discussion whether joining in-person or via Zoom.
+In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. Incompletes will only be granted with no more than two missing assignments, and work must be completed within six months of receiving an incomplete.
+
+Remember to complete the listed readings for each week prior to class, and be prepared for discussion.
 
 ---
 
 ## Weekly Schedule
 
-### Week One: Syllabus and Getting Started (Monday, August 22)
+### Week One: Syllabus and Getting Started (Tuesday, August 22)
 
 - Sweeney, Miriam E. 2012. ["How to Read for Grad School."](http://miriamsweeney.net/2012/06/20/readforgradschool/).
 - [The T&T Student Handbook](https://cah.ucf.edu/textstech/curriculum/handbook/)
 - **Due: Activity Verification (Friday August 26th)**
 
-### Week Two: Intro to DH (Monday, August 29)
+### Week Two: Intro to DH (Tuesday, August 29)
 
-- Bolter: Preface, Chapter 1-6
+- Klein: Emerging / Interdisciplining
 - Debates in DH: Part 1
 - **Demo: Zotero**
 
-### Week Three: No Class - Labor Day (Monday, September 5)
+### Week Three: Sites (Tuesday, September 5)
 
-### Week Four: Hypertext (Monday, September 12)
+- Bolter: Preface, Chapter 1-6
+- Broman, Karl. ["Simple Site"](https://kbroman.org/simple_site/)
+- **Demo: Visual Studio Code**
 
-- Rieck, Bastian. 2019. ["Why Every Academic Should Have a Personal Website"](https://bastian.rieck.me/blog/posts/2019/personal_website/)
+### Week Four: Hypertext (Tuesday, September 12)
+
 - Bolter: Finish book
-- Klein: Emerging / Interdisciplining
-- **Demo: Markdown and Visual Studio Code**
+- **Demo: Visual Studio Code**
 - **Due: Zotero Reading List**
   
-### Week Five: Literature Reviews (Monday, September 19)
+### Week Five: Literature Reviews (Tuesday, September 19)
 
 - Bogost: Preface, Chapter 1-5
 - Klein: Defining
-- FSU. ["The Literature Review Process"](https://guides.lib.fsu.edu/litreview_arthum)
-- **Demo: GitHub Pages**
+- FSU. ["The Literature Revdatiew Process"](https://guides.lib.fsu.edu/litreview_arthum)
+- **Demo: GitHub Accounts and Pages**
 
-### Week Six: Methods and Making (Monday, September 26)
+### Week Six: Methods and Making (Tuesday, September 26)
 
 - Bogost: Finish book
 - Debates in DH: Part II
 - "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://chroniclevitae.com/news/2086-lessons-on-the-craft-of-scholarlyreading)
-- **Demo: Jekyll**
+- **Demo: Markdown**
 - **Due: Abstract**
   
-### Week Seven: Arguments (Monday, October 3)
+### Week Seven: Arguments (Tuesday, October 3)
 
 - Nakamura: Introduction, Chapter 1-3
 - Debates in DH: Part III
 - **Demo: Academic Content**
 
-### Week Eight: Visual Culture (Monday, October 10)
+### Week Eight: Visual Culture (Tuesday, October 10)
 
 - Nakamura: Finish book
 - Debates in DH: Part V
 - **Demo: Style and Design**
 - **Due: Literature Review**
 
-### Week Nine: Software (Monday, October 17)
+### Week Nine: Software (Tuesday, October 17)
 
 - Manovich: Part 1 and 2
 - Debates in DH: Part IV
 - **Demo: Finishing Your Site**
 
-### Week Ten: Cultural Software (Monday, October 24)
-
-Drawing on models of GIS and spatial humanities, we'll explore the potential for data maps and plots across humanities datasets, thinking through both traditional and thematic approaches to mapping.
+### Week Ten: Cultural Software (Tuesday, October 24)
 
 - Manovich: Finish Book
 - Debates in DH: Part V
 - **Demo: Abstracts and Proposals**
 
-### Week Eleven: Digital Humanities, Revisited (Monday, October 31)
+### Week Eleven: Digital Humanities, Revisited (Tuesday, October 31)
 
 - Klein: Finish Book
 - Belcher, Wendy. 2019. ["Myths and Truths about Publishable Journal Articles"](https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion)
 - **Demo: Dissecting a Journal Article**
 - **Due: Academic Web Presence**
   
-### Week Twelve: Publishing Processes (Monday, November 7)
+### Week Twelve: Publishing Processes (Tuesday, November 7)
 
 - Vee: Introduction and Chapter 1-2
-- Debates in DH: Part VI
 - **Demo: From Submission to Article**
 
-### Week Thirteen: On Higher Ed (Monday, November 14)
+### Week Thirteen: On Higher Ed (Tuesday, November 14)
 
 - Vee: Finish book
 - Ahmed: Introduction and 1
 - **Demo: Revising Effectively**
 
-### Week Fourteen: Critiques (Monday, November 21)
+### Week Fourteen: Critiques (Tuesday, November 21)
 
 - Ahmed: 2 and 3
 - **Demo: Planning for Exams**
 - **Due: Article Draft**
 
-### Week Fifteen: Design Futures (Monday, November 28)
+### Week Fifteen: Design Futures (Tuesday, November 28)
 
 - Ahmed: Finish book
 - **Demo: Thinking Ahead on Dissertation**
@@ -233,7 +235,7 @@ Drawing on models of GIS and spatial humanities, we'll explore the potential for
 4. Creativity: I will use my talents to enrich the human experience.
 5. Excellence: I will strive toward the highest standards of performance in any endeavor I undertake.
 
-Students should familiarize themselves with [UCF’s Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
+Students should familiarize themselves with [UCF's Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
 
 1. Unauthorized assistance: Using or attempting to use unauthorized materials, information or study aids in any academic exercise unless specifically authorized by the instructor of record. The unauthorized possession of examination or course-related material also constitutes cheating.
 2. Communication to another through written, visual, electronic, or oral means: The presentation of material which has not been studied or learned, but rather was obtained through someone else’s efforts and used as part of an examination, course assignment, or project.
@@ -274,4 +276,8 @@ Students who are deployed active duty military and/or National Guard personnel a
 
 Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
-Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
+Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf). No penalty will be applied.
+
+### Title IX Policy
+
+Title IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment, and retaliation. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at [Let's be Clear](https://letsbeclear.ucf.edu) and [SDES](http://cares.sdes.ucf.edu/).
