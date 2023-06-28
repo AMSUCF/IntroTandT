@@ -145,7 +145,6 @@ Remember to complete the listed readings for each week prior to class, and be pr
 ### Week Four: Hypertext (Tuesday, September 12)
 
 - Bolter: Finish book
-- **Demo: Visual Studio Code**
 - **Due: Zotero Reading List**
   
 ### Week Five: Literature Reviews (Tuesday, September 19)
