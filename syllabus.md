@@ -102,7 +102,7 @@ Supplementary suggested readings are included in each module to guide additional
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
-Late work is accepted without penalty through the next major assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence.
+Late work is accepted without penalty through one week after the assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence. Incompletes will not be granted for students with more than two missing assignments, and must be resolved within six months of the end of the course.
 
 There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
 
@@ -110,13 +110,13 @@ There is no extra credit work available in this class. Grades will be available 
 
 ## Mixed Mode Course Structure
 
-This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and complete tutorials as assigned. All assignments are due at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
+This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and complete tutorials as assigned. All assignments are due at the close of their listed module, but will be accepted with no penalty for one week after the deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
 - In-person class sessions will not be recorded, but Zoom calls are possible when necessary.
 - Office hour assistance is additionally available both through text on Webcourses messages and via Zoom.
 
-In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. Incompletes will only be granted with no more than two missing assignments, and work must be completed within six months of receiving an incomplete.
+In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. Incompletes will only be granted with no more than two missing assignments, and work must be completed within six months of the close of course.
 
 Remember to complete the listed readings for each week prior to class, and be prepared for discussion.
 
