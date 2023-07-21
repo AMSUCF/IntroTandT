@@ -36,7 +36,7 @@
     - [Week Thirteen: On Higher Ed (Tuesday, November 14)](#week-thirteen-on-higher-ed-tuesday-november-14)
     - [Week Fourteen: Critiques (Tuesday, November 21)](#week-fourteen-critiques-tuesday-november-21)
     - [Week Fifteen: Design Futures (Tuesday, November 28)](#week-fifteen-design-futures-tuesday-november-28)
-    - [Final Paper Due (Friday, December 9)](#final-paper-due-friday-december-9)
+    - [Revision Memo Due (Friday, December 8)](#revision-memo-due-friday-december-8)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -95,10 +95,10 @@ Supplementary suggested readings are included in each module to guide additional
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25  |
 | 10  | **Zotero Reading List** - Set up Zotero and create a collection for your core T&T list. Add all the books we’re reading this semester that are on the list as well as any others you have read or are particularly interested in. Submit a screenshot of the collection. | Tuesday, September 12 |
 | 10 | **Abstract** - Choose a special issue, conference, or a target journal from the provided list. Draft an abstract of the appropriate length and style (following journal guidelines). This abstract will form the starting point for your semester-long research project. | Tuesday, September 26  |
-| 15  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Tuesday, October 10 |
+| 20  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Tuesday, October 10 |
 | 20  | **Web Presence** - Using the provided templates, build a foundational professional website with an emphasis on your research and trajectory. The website should include relevant information from your CV and any digital projects ready for showcasing.  | Tuesday, October 31 |
-| 20 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article. This draft is graded on completion only, but will be the foundation of feedback for your final revisions.  | Tuesday, November 21  |
-| 20 | **Revised Article** - Complete a thorough revision of your article, responsive to the instructor feedback, and formatted for submission with a works cited prepared in Zotero. | Friday, December 8  |
+| 25 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article.   | Tuesday, November 21  |
+| 10 | **Revision Memo** - Provide a plan for your article revision, responsive to the feedback you've reived on the draft submission. This memo should be professionally structured and addressed to the editor of your target journal. | Friday, December 8  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -216,7 +216,7 @@ Remember to complete the listed readings for each week prior to class, and be pr
 - Ahmed: Finish book
 - **Demo: Thinking Ahead on Dissertation**
 
-### Final Paper Due (Friday, December 9)
+### Revision Memo Due (Friday, December 8)
 
 ---
 
