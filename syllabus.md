@@ -145,7 +145,7 @@ Remember to complete the listed readings for each week prior to class, and be pr
 ### Week Four: Hypertext (Tuesday, September 12)
 
 - Bolter: Finish book
-- "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://chroniclevitae.com/news/2086-lessons-on-the-craft-of-scholarlyreading)
+- "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://www.chronicle.com/article/lessons-on-the-craft-of-scholarly-reading/)
 - **Due: Zotero Reading List**
   
 ### Week Five: Literature Reviews (Tuesday, September 19)
